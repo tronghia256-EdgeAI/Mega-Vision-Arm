@@ -1,0 +1,4 @@
+Belt Drive Robot Arm by 20sffactory on Thingiverse: https://www.thingiverse.com/thing:4415380
+
+Summary:
+This is a community project based on ftobler's robot arm design. The design has evolved additional hardware designs, functions and hardware in the past 2 years. Files on thingiverse is not maintained. Please refer to https://www.20sffactory.com/robot/about for the latest versions of files and visual guides.If you have questions, feel free to be in touch with our community. Thank you.Support Community Link:facebook.com/groups/robotarmResource Page:www.20sffactory.com/robot/resourceRaw files &amp; Firmware on Github:github.com/20sffactoryVideo:https://youtu.be/IWGFHG_phLk
