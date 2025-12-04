@@ -12,7 +12,6 @@
 ## 📸 Demo & Showcase
 
 [![Watch the video](https://youtube.com/shorts/ch8xM2GATeg?feature=share/maxresdefault.jpg)](https://youtube.com/shorts/ch8xM2GATeg?feature=share)
-*(Place a GIF of your robot moving on the rail here!)*
 
 ---
 
