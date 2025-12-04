@@ -1,0 +1,8 @@
+opencv-python
+numpy
+torch
+torchvision
+ultralytics
+pyserial
+imutils
+Pillow
